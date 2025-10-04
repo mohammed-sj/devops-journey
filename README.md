@@ -7,8 +7,8 @@ I’m starting from scratch and working step by step through the fundamentals �
 
 ## ⚡ Quick Overview
 
-- Following a clear **Roadmap** (Linux → Kubernetes)  
-- One **Micro-project** per skill area  
+- Following a clear **roadmap** (Linux → Kubernetes)  
+- Practical **projects & challanges** across each skill area 
 - **Labs log** with step-by-step entries and progress snapshots  
 - Documented **Key Outcomes** at each stage  
 
@@ -17,8 +17,8 @@ I’m starting from scratch and working step by step through the fundamentals �
 ## 📍 Roadmap Progress
 
 - [x] Kickoff & structure  
-- [ ] **01-linux-fundamentals**  
-- [ ] 02-bash-scripting  
+- [x] 01-linux-fundamentals  
+- [ ] **02-bash-scripting**  
 - [ ] 03-git-essentials  
 - [ ] 04-networking-basics  
 - [ ] 05-docker-containers  
