@@ -32,4 +32,3 @@ I’m starting from scratch and working step by step through the fundamentals �
 ## 🔗 Repos
 
 - [labs-log](https://github.com/mohammed-sj/labs-log)
-- [01-linux-fundamentals](https://github.com/mohammed-sj/01-linux-fundamentals)
