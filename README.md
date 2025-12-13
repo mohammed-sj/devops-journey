@@ -1,7 +1,7 @@
 # DevOps Journey: From Linux to Kubernetes
 
 This repo is a **map of my journey** into DevOps.  
-I’m starting from scratch and working step by step through the fundamentals — each stage has its own repo with a micro-project and notes.
+I’m starting from scratch and working step by step through the fundamentals, each stage is organized into its own section within a single repository.
 
 ---
 
