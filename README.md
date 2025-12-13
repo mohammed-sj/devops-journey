@@ -20,8 +20,8 @@ Iâ€™m starting from scratch and working step by step through the fundamentals â€
 - [x] 01-linux-fundamentals  
 - [x] 02-bash-scripting  
 - [x] 03-git-essentials  
-- [ ] **04-networking-basics**  
-- [ ] 05-docker-containers  
+- [x] 04-networking-basics  
+- [ ] **05-docker-containers**  
 - [ ] 06-aws  
 - [ ] 07-terraform-iac  
 - [ ] 08-cicd-pipelines  
