@@ -31,4 +31,4 @@ I’m starting from scratch and working step by step through the fundamentals, e
 
 ## 🔗 Repos
 
-- [labs-log](https://github.com/mohammed-sj/labs-log)
+- [devops-labs-log](https://github.com/mohammed-sj/devops-labs-log)
