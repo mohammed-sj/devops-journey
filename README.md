@@ -21,8 +21,8 @@ I’m starting from scratch and working step by step through the fundamentals, e
 - [x] 02-bash-scripting  
 - [x] 03-git-essentials  
 - [x] 04-networking-basics  
-- [ ] **05-docker-containers**  
-- [ ] 06-aws  
+- [x] 05-docker-containers  
+- [ ] **06-aws**
 - [ ] 07-terraform-iac  
 - [ ] 08-cicd-pipelines  
 - [ ] 09-kubernetes-basics  
